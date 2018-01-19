@@ -1,15 +1,12 @@
 #include <stdio.h>
-
-void main()
-{
+void main(){
+    
     int num;
     
-    /* Input number from user */
+   ("input number user")
     printf("Enter any number: ");
     scanf("%d", &num);
-    
-
-    if(num > 0)
+     if(num > 0)
     {
         printf("Number is POSITIVE");
     }
