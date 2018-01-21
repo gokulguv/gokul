@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int main()
+void main()
 {
     int array[50], size, i, largest;
     printf("\n Enter the size of the array: ");
@@ -15,5 +15,6 @@ int main()
             largest = array[i];
     }
     printf("\n largest element present in the given array is : %d", largest);
+ getch();
     return 0;
 }
