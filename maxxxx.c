@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int main()
+void main()
 {
   int array[100], maximum, size, c, location = 1;
  
