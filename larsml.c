@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-int main()
+void main()
 {
     int a[50],i,n,large,small;
     printf("How many elements:");
