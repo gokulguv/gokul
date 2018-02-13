@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	int num,N[100],i,sum=0,avg;
 	scanf("%d",&num);
