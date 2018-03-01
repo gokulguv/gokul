@@ -12,4 +12,5 @@
     {printf("no");}
     }
     return 0;
+  clrscer();
 }
